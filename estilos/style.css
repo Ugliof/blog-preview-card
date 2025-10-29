@@ -44,7 +44,7 @@ body {
     margin-bottom: 0.7rem;
 }
 
-.tag {
+.card h1 {
     background-color: var(--Yellow);
     font-size: 16px;
     font-weight: 800;
